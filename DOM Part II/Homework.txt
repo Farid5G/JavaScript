@@ -1,0 +1,9 @@
+In Javascript, appendChild and removeChild are two essential methods used to manipulate the Document Object Model (DOM) by adding and removing nodes, respectively. Here's a breakdown of each:
+
+1.appendChild:
+
+Function: Takes a child node as an argument and adds it as the last child of the element on which the method is called.
+
+2.removeChild:
+
+Function: Takes a child node as an argument and removes it from the DOM tree. It returns the removed node.
